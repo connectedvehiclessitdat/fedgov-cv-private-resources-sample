@@ -1,0 +1,3 @@
+email.config.from=from@url.com
+email.config.to=from@url.com
+keystore.password=passwordForKeystore
